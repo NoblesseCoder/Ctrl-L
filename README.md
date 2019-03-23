@@ -1,4 +1,4 @@
-# Ctrl+L functionality in Xv6 Operating System.
+# Ctrl+L Interrupt for Xv6 Operating System.
 
 Xv6 is a teaching Operating System developed in the summer of 2006 for MIT's Operating Systems Course, 6.828: Operating System Engineering. As a part of the Operating Systems Course in PES University we were asked to mimic various Kernel functionalities  of Ubuntu Linux OS in Xv6.
 
